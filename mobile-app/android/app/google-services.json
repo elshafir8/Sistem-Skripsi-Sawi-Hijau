@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "868536611623",
+    "firebase_url": "https://sawi-hijau-ai-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sawi-hijau-ai",
+    "storage_bucket": "sawi-hijau-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868536611623:android:eb211cb8170fed6acf6f02",
+        "android_client_info": {
+          "package_name": "com.example.agrifis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBjSv6-KDrBKkhDz7J0U9uYcQ0NjUxs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
